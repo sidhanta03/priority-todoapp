@@ -1,3 +1,12 @@
+## Deployed Version
+
+You can access the deployed version of this application at the following link:
+
+[priority-todoapp.web.app]
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
