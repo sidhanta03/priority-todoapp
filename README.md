@@ -2,7 +2,7 @@
 
 You can access the deployed version of this application at the following link:
 
-[priority-todoapp.web.app]
+[Priority TodoApp](priority-todoapp.web.app)
 
 
 
