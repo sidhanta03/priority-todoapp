@@ -2,7 +2,8 @@
 
 You can access the deployed version of this application at the following link:
 
-<a href="https://priority-todoapp.web.app" target="_blank">Priority TodoApp</a>
+
+[Priority TodoApp](https://priority-todoapp.web.app){:target="_blank" rel="noopener"}
 
 
 
